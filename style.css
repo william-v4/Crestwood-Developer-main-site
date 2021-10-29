@@ -10,3 +10,19 @@
     font-family: Code;
     src: url(Fira.ttf);
 }
+.background {
+    background-image: url(background.jpg);
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.logo {
+    max-height: 1cm;
+}
+body,h1 {
+    font-family: Comfortaa;
+    color: white;
+}
+body,html {
+    height: 100%;
+}
